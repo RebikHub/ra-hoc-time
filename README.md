@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4dp0rtagxmo2rq0i/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-hoc-time/branch/master)
 
 [Форматирование даты публикации](https://rebikhub.github.io/ra-hoc-time/)
 
